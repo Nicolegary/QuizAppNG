@@ -36,6 +36,29 @@
 
 
 
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TRUE"
+            android:id="@+id/trueBTN"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FALSE"
+            android:id="@+id/falseBTN"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="YOU'RE DONE"
+            android:id="@+id/finishedBTN"
+            android:textSize="20sp"
+            />
+
+
     </LinearLayout>
 
 </LinearLayout>
